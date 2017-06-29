@@ -1,0 +1,3 @@
+1, extract the file, and then run the administrator as safe.bat;
+2, in the pop-up registry editor dialog box, select Yes (Y);
+3, install the latest operating system patch (that is, manually update once, click my computer right click - attribute (R)) ---> lower left corner ---> Windows Update ---> check update ---> install update The.
