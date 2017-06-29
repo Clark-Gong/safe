@@ -1,4 +1,0 @@
-1, unzip the file, and then run the administrator as safe.bat;
-2, Select Yes (y) in the Pop-up Registry Editor dialog box；
-3, install the latest operating system patch (that is, manually update once, click My computer Press the right button--->Properties(R)--->
-Then open Windows Update in the lower left corner of the dialog box--->check update ---> install update.
