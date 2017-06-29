@@ -1,5 +1,6 @@
 # safe
 On the security aspects of learning, exploration
+
 1、解压文件，然后以管理员身份运行safe.bat；
 
 2、在弹出的注册表编辑器对话框中选择是(Y)；
